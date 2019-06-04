@@ -1,5 +1,11 @@
 pipeline {
-    agent any
+    agent {
+        label 'staging'
+        docker {
+            image 'node:10.16.0-alpine' 
+            args '-p 3000:3000' 
+        }
+    }
 
     stages {
         stage('Build') {
@@ -9,10 +15,13 @@ pipeline {
         }
         stage('Test') {
             steps {
-                echo 'Testing.........'
+                echo 'Testing.....'
             }
         }
         stage('Deploy') {
+            when {
+                branch "master"
+            }
             steps {
                 echo 'Deploying....'
             }
