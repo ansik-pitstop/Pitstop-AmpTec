@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="201px" height="201px" viewBox="0 0 201 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="84.0652724%" y1="16.3749687%" x2="19.8203181%" y2="90.3028395%" id="linearGradient-1">
+            <stop stop-color="#0B4096" offset="0%"></stop>
+            <stop stop-color="#0443A9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Confirmation-Copy" transform="translate(-536.000000, -210.000000)">
+            <g id="Group-7" transform="translate(337.000000, 123.000000)">
+                <g id="Group-4" transform="translate(0.748018, 0.725248)">
+                    <g id="Group-6" transform="translate(302.500000, 276.500000) rotate(-90.000000) translate(-302.500000, -276.500000) translate(26.000000, -26.000000)">
+                        <g id="Group-5" transform="translate(276.073024, 302.607710) rotate(-270.000000) translate(-276.073024, -302.607710) translate(-25.926976, 26.607710)">
+                            <g id="Group-2" transform="translate(97.000000, 85.000000)">
+                                <g id="Group" transform="translate(0.126323, 0.862032)">
+                                    <g id="Group-3" transform="translate(100.373677, 0.000000)">
+                                        <circle id="Oval" fill="url(#linearGradient-1)" transform="translate(100.626323, 100.362032) rotate(360.000000) translate(-100.626323, -100.362032) " cx="100.626323" cy="100.362032" r="100"></circle>
+                                        <polyline id="Path-18" stroke="#EFF932" stroke-width="18" transform="translate(103.126323, 100.862032) rotate(360.000000) translate(-103.126323, -100.862032) " points="50.1263226 109.171271 83.3481733 140.862032 156.126323 60.8620316"></polyline>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="59.4399872%" x2="0%" y2="59.4399872%" id="linearGradient-1">
+            <stop stop-color="#E4BD00" offset="0%"></stop>
+            <stop stop-color="#C57D00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="59.4399872%" x2="0%" y2="59.4399872%" id="linearGradient-2">
+            <stop stop-color="#E4BD00" offset="0%"></stop>
+            <stop stop-color="#C57D00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="59.4399872%" x2="0%" y2="59.4399872%" id="linearGradient-3">
+            <stop stop-color="#E4BD00" offset="0%"></stop>
+            <stop stop-color="#C57D00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="59.4399872%" x2="0%" y2="59.4399872%" id="linearGradient-4">
+            <stop stop-color="#E4BD00" offset="0%"></stop>
+            <stop stop-color="#C57D00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="59.4399872%" x2="0%" y2="59.4399872%" id="linearGradient-5">
+            <stop stop-color="#E4BD00" offset="0%"></stop>
+            <stop stop-color="#C57D00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pitstop-Brakes-Copy-7" transform="translate(-36.000000, -679.000000)" fill-rule="nonzero">
+            <g id="Group" transform="translate(56.898058, 700.000000) rotate(-720.000000) translate(-56.898058, -700.000000) translate(36.000000, 679.500000)">
+                <path d="M20.8980583,0.213541667 C9.49120146,0.213541667 0.217688107,9.31041667 0.217688107,20.5 C0.217688107,31.6895833 9.49120146,40.7864583 20.8980583,40.7864583 C32.304915,40.7864583 41.5784284,31.6895833 41.5784284,20.5 C41.5784284,9.31041667 32.304915,0.213541667 20.8980583,0.213541667 Z M20.8980583,33.3979167 C13.6272755,33.3979167 7.7496966,27.6322917 7.7496966,20.5 C7.7496966,13.3677083 13.6272755,7.60208333 20.8980583,7.60208333 C28.168841,7.60208333 34.0464199,13.3677083 34.0464199,20.5 C34.0464199,27.6322917 28.168841,33.3979167 20.8980583,33.3979167 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M16.5878337,20.7135417 L10.6667172,18.834375 C10.579642,19.3895833 10.5361044,19.9447917 10.5361044,20.5 C10.5361044,23.3614583 11.7116201,25.9239583 13.6272755,27.7604167 L17.2844357,22.80625 C16.8925971,22.2083333 16.6313714,21.4822917 16.5878337,20.7135417 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                <path d="M19.3742415,16.528125 L19.3742415,10.4208333 C15.978307,10.9333333 13.104824,13.0260417 11.6245449,15.9302083 L17.5456614,17.809375 C18.0245752,17.2541667 18.6341019,16.8270833 19.3742415,16.528125 Z" id="Path" fill="url(#linearGradient-3)"></path>
+                <path d="M20.8980583,24.728125 C20.5062197,24.728125 20.1143811,24.6854167 19.7660801,24.6 L16.1089199,29.5541667 C17.5456614,30.2802083 19.1565534,30.7072917 20.8980583,30.7072917 C22.6395631,30.7072917 24.2504551,30.2802083 25.6871966,29.5541667 L22.0300364,24.6 C21.6817354,24.6854167 21.2898968,24.728125 20.8980583,24.728125 Z" id="Path" fill="url(#linearGradient-4)"></path>
+                <path d="M22.421875,10.4208333 L22.421875,16.528125 C23.1184769,16.784375 23.7715413,17.2541667 24.2504551,17.809375 L30.1715716,15.9302083 C28.6912925,13.0260417 25.8613471,10.9333333 22.421875,10.4208333 Z" id="Path" fill="url(#linearGradient-3)"></path>
+                <path d="M24.5116808,22.80625 L28.168841,27.7604167 C30.0844964,25.9239583 31.2600121,23.31875 31.2600121,20.5 C31.2600121,19.9447917 31.2164745,19.3895833 31.1293993,18.834375 L25.2082828,20.7135417 C25.1647451,21.4822917 24.9035194,22.2083333 24.5116808,22.80625 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                <ellipse id="Oval" fill="url(#linearGradient-5)" cx="20.8980583" cy="20.5" rx="2.30749393" ry="2.26354167"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
