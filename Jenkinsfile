@@ -2,14 +2,15 @@ pipeline {
     agent {
         docker {
             image 'node:10.16.0-alpine' 
+            args '-u root'
         }
     }
 
     stages {
         stage('Pre-Build') {
             steps {
+                sh 'yarn global add firebase-tools  --unsafe-perm'
                 sh 'yarn install'
-                sh 'yarn install -g firebase-tools'
             }
         }
         stage('Build') {
