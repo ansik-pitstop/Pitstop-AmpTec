@@ -1,21 +1,20 @@
 pipeline {
     agent {
-        label 'staging'
         docker {
             image 'node:10.16.0-alpine' 
-            args '-p 3000:3000' 
         }
     }
 
     stages {
-        stage('Build') {
+        stage('Pre-Build') {
             steps {
-                echo 'Building..'
+                sh 'yarn install'
+                sh 'yarn install -g firebase-tools'
             }
         }
-        stage('Test') {
+        stage('Build') {
             steps {
-                echo 'Testing.....'
+                sh 'yarn build'
             }
         }
         stage('Deploy') {
@@ -23,7 +22,7 @@ pipeline {
                 branch "master"
             }
             steps {
-                echo 'Deploying....'
+                 sh 'firebase deploy --token=$FIREBASE_DEPLOY_TOKEN'
             }
         }
     }
