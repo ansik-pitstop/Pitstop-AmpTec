@@ -29,7 +29,8 @@ pipeline {
     }
     post {
         always {
-            deleteDir() /* clean up our workspace */
+            sh "chmod -R 777 ."
+            cleanWs()
         }
     }
 }
