@@ -261,7 +261,7 @@ export default class Book extends Component {
           <h3>{this.shop.title}</h3>
           <p>{this.shop.address}</p>
           <Divider />
-          <h4>Service Experiene</h4>
+          <h4>Service Experience</h4>
           {this.shop.experienced.split('\n').map((el, i) => (
             <p className="gray" key={i}>
               {el}
